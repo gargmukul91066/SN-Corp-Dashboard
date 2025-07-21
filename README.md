@@ -64,11 +64,7 @@ This project simulates the kind of **real-world reporting** and **decision-makin
 - `SN_Corp_Dashboard.pbix`: Main Power BI dashboard file
 - `dashboard_preview.png`: Dashboard image preview
 
----
 
-## 🧑‍💼 About Me
-
-I'm a **Data Analyst / BI Developer** passionate about transforming raw data into strategic insight using tools like Power BI, SQL, and Python. I love telling stories through visuals that influence business decisions and unlock growth.
 
 ---
 
