@@ -1,6 +1,6 @@
 # 📊 SN Corp Dashboard - Power BI Business Insights
 
-Dashboard Preview
+**Dashboard Preview**
 <img width="1282" height="716" alt="image" src="https://github.com/user-attachments/assets/52cef349-b80e-405f-9492-2520f6b3aff4" />
 
 ## 🚀 Project Overview
