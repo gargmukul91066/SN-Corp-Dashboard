@@ -74,7 +74,7 @@ I'm a **Data Analyst / BI Developer** passionate about transforming raw data int
 
 ## 📬 Let's Connect
 
-- 📧 Email: mukul91066@gmai.com  
+- 📧 Email: mukul91066@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/mukul-garg-5b533b245)  
 
 
